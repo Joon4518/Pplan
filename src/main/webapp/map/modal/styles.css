@@ -1,0 +1,17 @@
+@charset "EUC-KR";
+/* Add your custom styles here */
+#detailSidebar {
+  width: 500px;
+  position: fixed;
+  top: 0;
+  left: -500px; /* Changed from right to left */
+  height: 100%;
+  background-color: #ffffff;
+  padding: 20px;
+  transition: left 0.8s ease; /* Changed from right to left */
+  z-index: 700;
+}
+
+#detailSidebar.active {
+  left: 250px; /* Changed from right to left */
+}
