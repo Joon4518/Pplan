@@ -23,5 +23,34 @@
   -	여행 코스 저장 및 공유를 통해 간편하게 관리 가능
   -	사용자 참여 제고를 위한 배지 시스템
 
+### 기술 스택 및 개발 환경
+  - Java, JSP, Servlet, JavaScript, AJAX
+  - OracleDB
+  - Eclipse
+  - 
+### DB
+![image9](https://github.com/user-attachments/assets/6425a7a0-98ed-4ca9-ade0-724ca2c9778a)
+
+### 주요 기능 소개
+  - 시작화면
+  ![시작화면](https://github.com/user-attachments/assets/66510840-4e1a-44ea-9f95-21b1ce70cc6a)
+  - 메인페이지
+  ![메인페이지](https://github.com/user-attachments/assets/714e96cb-9a80-463b-bc64-92e3489d4686)
+  - 로그인
+  ![로그인페이지](https://github.com/user-attachments/assets/799f5b51-4484-42fb-8fa3-c6d239c7bd1b)
+  - 여행지 추천게임
+   > ![여행지 추천게임 페이지](https://github.com/user-attachments/assets/c7af9697-4abc-42a5-a30a-f29b67178a70)
+   >![여행지 추천게임 페이지2](https://github.com/user-attachments/assets/aafeba2d-bc5f-4221-91a7-52bec931b7d5)
+   >간단한 게임을 통한 여행지 추천
+  - 원하는 여행지선택
+  ![일정생성페이지](https://github.com/user-attachments/assets/8e232750-d549-4b01-9a7f-965343496589)
+    
+
+
+ 
+
+
+
+
 
 
