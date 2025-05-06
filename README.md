@@ -28,51 +28,30 @@
   - OracleDB
   - Eclipse
     
-### DB
-    ![image9](https://github.com/user-attachments/assets/c0fe3898-2552-4f1e-aa3c-f3ce8fec1477)
+### 주요 기능 소개
+  - 관광지 데이터의 태그 정보를 활용하여 관광지 추천 게임 구현
+
+    >![게임 여행지추천 결과](https://github.com/user-attachments/assets/0020092b-c5ed-440e-8b6d-63f5147af1d1)
+
+  - 사용자 가 원하는 관광지 선택시 위치 및 정보 제공
+    
+    > ![리뷰페이지](https://github.com/user-attachments/assets/ea890d3a-4f1a-4107-874a-85761db3b6be)
 
     
+  - 사용자가 선택한 관광지들을 이용한 일정생성 -> 하루 여정 단위의 최단경로 일정생성
 
-### 주요 기능 소개
-  - 시작화면
-    > ![시작화면](https://github.com/user-attachments/assets/c2b2b86e-4f59-4e1c-b85f-71fbfe628a26)
-
-  
-  - 메인페이지
-    > ![메인페이지](https://github.com/user-attachments/assets/b46564de-d9c5-4a71-9e0f-f3edc75bebed)
+     > ![image39](https://github.com/user-attachments/assets/ca58064a-0026-4089-979d-c1182e24c140)
 
 
-  - 로그인
-    > ![로그인페이지](https://github.com/user-attachments/assets/6252a074-6f25-4fa9-9d4e-e3f4082445bf)
+  - 다른 사용자에게 나의 일정 추천
+
+    > ![image41](https://github.com/user-attachments/assets/2adec098-5675-4d6d-8876-55e10b99ccf4)
 
 
-  - 간단한 게임을 통한 여행지 추천
-    > ![여행지 추천게임 페이지](https://github.com/user-attachments/assets/c7af9697-4abc-42a5-a30a-f29b67178a70)
-    > ![여행지 추천게임 페이지2](https://github.com/user-attachments/assets/aafeba2d-bc5f-4221-91a7-52bec931b7d5)
-    > ![게임 여행지추천 결과](https://github.com/user-attachments/assets/af71064c-68cb-48d7-b876-48a530696258)
+  - 사용자들이 추천한 일정 확인 가능
+    > ![image43](https://github.com/user-attachments/assets/8f7ed1d6-44d1-42f0-99f6-ab11deff4edf)
 
-  - 원하는 여행지선택
-    > ![여행지 일정생성2](https://github.com/user-attachments/assets/16697ab8-b1a7-4732-9b23-0c20070a0e7c)
-
-  - 여행지 선택시 리뷰를 보여줌
-    >  ![리뷰페이지](https://github.com/user-attachments/assets/dd1b4c8a-ae05-41e2-a60e-6449017c006d)
-
-  - 선택된 여행지 마커표시
-    >  ![마커 보여줌](https://github.com/user-attachments/assets/f0d6ae59-957b-4daf-9074-eaf965dcdc7d)
-
-  - 일정 생성시 여정별 최단경로 일정 생성 및 저장기능
-    >  ![일정 생성 페이지](https://github.com/user-attachments/assets/fff8d607-9388-4c77-9a76-99b40b1cf190)
-
-  - 마이페이지에서 저장한 일정에 대한 추천 및 한줄평
-    > ![마이페이지 일정확인기능](https://github.com/user-attachments/assets/9381b4fa-691d-4c0c-a3f7-4c38f10fa158)
-
-    > ![한줄평작성 페이지](https://github.com/user-attachments/assets/35f73aae-2f20-4953-b2f5-dca76de1bb21)
-
-  - 다른 유저가 추천한 일정 확인가능
-    > ![추천일정목록](https://github.com/user-attachments/assets/ae7b3d64-cf02-4a00-84d7-5c81205625aa)
-
-
-
+ 
 
 
 
