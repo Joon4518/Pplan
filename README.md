@@ -24,12 +24,13 @@
   -	사용자 참여 제고를 위한 배지 시스템
 
 ### 기술 스택 및 개발 환경
-  - Java, JSP, Servlet, JavaScript, AJAX
+  - Java, JSP, Servlet, JDBC, JavaScript, AJAX
   - OracleDB
   - Eclipse
     
 ### DB
-    ![image9](https://github.com/user-attachments/assets/6425a7a0-98ed-4ca9-ade0-724ca2c9778a)
+    ![image9](https://github.com/user-attachments/assets/c0fe3898-2552-4f1e-aa3c-f3ce8fec1477)
+
     
 
 ### 주요 기능 소개
