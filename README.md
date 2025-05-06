@@ -29,7 +29,7 @@
   - Eclipse
     
 ### DB
-  - ![image9](https://github.com/user-attachments/assets/6425a7a0-98ed-4ca9-ade0-724ca2c9778a)
+    >![image9](https://github.com/user-attachments/assets/6425a7a0-98ed-4ca9-ade0-724ca2c9778a)
     
 
 ### 주요 기능 소개
