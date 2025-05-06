@@ -27,24 +27,53 @@
   - Java, JSP, Servlet, JavaScript, AJAX
   - OracleDB
   - Eclipse
-  - 
+    
 ### DB
-![image9](https://github.com/user-attachments/assets/6425a7a0-98ed-4ca9-ade0-724ca2c9778a)
+  - ![image9](https://github.com/user-attachments/assets/6425a7a0-98ed-4ca9-ade0-724ca2c9778a)
+    
 
 ### 주요 기능 소개
   - 시작화면
-  ![시작화면](https://github.com/user-attachments/assets/66510840-4e1a-44ea-9f95-21b1ce70cc6a)
+    > ![시작화면](https://github.com/user-attachments/assets/c2b2b86e-4f59-4e1c-b85f-71fbfe628a26)
+
+  
   - 메인페이지
-  ![메인페이지](https://github.com/user-attachments/assets/714e96cb-9a80-463b-bc64-92e3489d4686)
+    > ![메인페이지](https://github.com/user-attachments/assets/b46564de-d9c5-4a71-9e0f-f3edc75bebed)
+
+
   - 로그인
-  ![로그인페이지](https://github.com/user-attachments/assets/799f5b51-4484-42fb-8fa3-c6d239c7bd1b)
-  - 여행지 추천게임
-   > ![여행지 추천게임 페이지](https://github.com/user-attachments/assets/c7af9697-4abc-42a5-a30a-f29b67178a70)
-   >![여행지 추천게임 페이지2](https://github.com/user-attachments/assets/aafeba2d-bc5f-4221-91a7-52bec931b7d5)
-   >간단한 게임을 통한 여행지 추천
+    > ![로그인페이지](https://github.com/user-attachments/assets/6252a074-6f25-4fa9-9d4e-e3f4082445bf)
+
+
+  - 간단한 게임을 통한 여행지 추천
+    > ![여행지 추천게임 페이지](https://github.com/user-attachments/assets/c7af9697-4abc-42a5-a30a-f29b67178a70)
+    > ![여행지 추천게임 페이지2](https://github.com/user-attachments/assets/aafeba2d-bc5f-4221-91a7-52bec931b7d5)
+    > ![게임 여행지추천 결과](https://github.com/user-attachments/assets/af71064c-68cb-48d7-b876-48a530696258)
+
   - 원하는 여행지선택
-  ![일정생성페이지](https://github.com/user-attachments/assets/8e232750-d549-4b01-9a7f-965343496589)
-    
+    > ![여행지 일정생성2](https://github.com/user-attachments/assets/16697ab8-b1a7-4732-9b23-0c20070a0e7c)
+
+  - 여행지 선택시 리뷰를 보여줌
+    >  ![리뷰페이지](https://github.com/user-attachments/assets/dd1b4c8a-ae05-41e2-a60e-6449017c006d)
+
+  - 선택된 여행지 마커표시
+    >  ![마커 보여줌](https://github.com/user-attachments/assets/f0d6ae59-957b-4daf-9074-eaf965dcdc7d)
+
+  - 일정 생성시 여정별 최단경로 일정 생성 및 저장기능
+    >  ![일정 생성 페이지](https://github.com/user-attachments/assets/fff8d607-9388-4c77-9a76-99b40b1cf190)
+
+  - 마이페이지에서 저장한 일정에 대한 추천 및 한줄평
+    > ![마이페이지 일정확인기능](https://github.com/user-attachments/assets/9381b4fa-691d-4c0c-a3f7-4c38f10fa158)
+
+    > ![한줄평작성 페이지](https://github.com/user-attachments/assets/35f73aae-2f20-4953-b2f5-dca76de1bb21)
+
+  - 다른 유저가 추천한 일정 확인가능
+    > ![추천일정목록](https://github.com/user-attachments/assets/ae7b3d64-cf02-4a00-84d7-5c81205625aa)
+
+
+
+
+
 
 
  
